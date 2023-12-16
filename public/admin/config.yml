@@ -1,0 +1,5 @@
+backend:
+  name: gitlab
+  repo: sanabil-al-firdaws/cms-for-astro # Path to your GitLab repository
+  auth_type: pkce # Required for pkce
+  app_id: 17fca3899e9d72cbbd6f889023a5caedd6dd55283ac5038778b5afeca53541d3
